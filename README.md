@@ -14,7 +14,6 @@
 
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?logo=adobe&logoColor=white)
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?logo=gimp&logoColor=FFFFFF)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?logo=blender&logoColor=white)  
 
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 [![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#)
